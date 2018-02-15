@@ -1,3 +1,5 @@
+pragma solidity ^0.4.0;
+
 contract Concatenate {
     
     function concatenate(string string_1, string string_2) constant returns(string result) {

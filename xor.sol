@@ -1,3 +1,5 @@
+pragma solidity ^0.4.0;
+
 contract XOR {
     
     function xor(byte number_1, byte number_2) constant returns(bool result) {
